@@ -4,3 +4,4 @@ def meal_choice(veg1, veg2, protein = 'meat')
   puts meal
   meal
 end
+meal_choice 'jjaj','kakak','jsjhl'
